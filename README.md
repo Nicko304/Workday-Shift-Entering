@@ -8,7 +8,7 @@ A project with the goal of automating the process of entering shift times onto W
 - Chromedriver file.
 - Edit line 17 with the appropriate file path for your Chromedriver.
 
-# Current Usage
+# Instructions
 1. Complete the setup indicated on the code file and have selenium installed.
 2. Run the program and respond to each of the three prompts given.
 3. Login to your USC account and complete DUO 2FA once the program takes you to the site.
