@@ -15,5 +15,5 @@ Edit line 17 with the appropriate file path for your Chromedriver.
 
 # Disclaimers
 
-- This project is not complete and currently only supports entering one shift per run of the program and may contain bugs.
+- This project is incomplete so it currently only supports entering one shift per run of the program and may contain bugs.
 - There is also a lack of user testing so please read the prompts carefully when running the program to reduce errors.
