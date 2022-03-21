@@ -4,8 +4,9 @@ A project with the goal of automating the process of entering shift times onto W
 
 # Requirements
 
-Selenium.
-Edit line 17 with the appropriate file path for your Chromedriver.
+- Selenium.
+- Chromedriver file.
+- Edit line 17 with the appropriate file path for your Chromedriver.
 
 # Current Usage
 1. Complete the setup indicated on the code file and have selenium installed.
