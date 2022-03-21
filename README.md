@@ -1,6 +1,6 @@
 # Workday-Shift-Entering
 
-A project with the goal of automating the process of entering shift times onto Workday to increase worker efficiency and accuracy at my current workplace.
+A project with the end-goal of automating the process of entering shift times from a timecard onto Workday to increase worker efficiency and accuracy at my current workplace.
 
 # Requirements
 
