@@ -16,5 +16,5 @@ A project with the goal of automating the process of entering shift times onto W
 
 # Disclaimers
 
-- This project is incomplete so it currently only supports entering one shift per run of the program and may contain bugs.
+- This project is incomplete, but it will still run properly (it only supports entering one shift per run of the program and may contain bugs.
 - There is also a lack of user testing so please read the prompts carefully when running the program to reduce errors.
